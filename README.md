@@ -16,6 +16,8 @@ data base from a ficticious company.
 
 ## Project Description
 This project focuses on the world population and its structure from 1950s until today.
+The Tableau Public presentation can be found at
+ https://public.tableau.com/profile/andr.s.felipe.torres#!/vizhome/tableau_project_public/SalaryGap?publish=yes
 
 
 ## Dataset
