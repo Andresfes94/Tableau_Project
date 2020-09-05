@@ -3,8 +3,8 @@
 # Project: Business Intelligence with Tableau
 
 ## Overview
-The goal of this project is  to practice all learned in the Business Intelligence chapter of this program. We selected a 
-data base from a ficticious company. 
+The goal of this project is  to practice all learned in the Business Intelligence chapter of this program. We selected a data base 
+ from a ficticious company.
  We explore the data using Tableau, and put together a Story for presentation showing the insights you have derived from the data. 
 
 **Andres Saldana**
@@ -15,14 +15,18 @@ data base from a ficticious company.
 * [Visualisation with Tableau](#visualisation-with-tableau)
 
 ## Project Description
-This project focuses on the world population and its structure from 1950s until today.
-The Tableau Public presentation can be found at
+
+The Tableau Public presentation can be found at:
  https://public.tableau.com/profile/andr.s.felipe.torres#!/vizhome/tableau_project_public/SalaryGap?publish=yes
 
 
 ## Dataset
+Here I need to describe the data bases. 
 
-The data was obtained from United Nations, available on their website: https://population.u
+Employee Data: 
+
+
+
 
 ## Visualisation with Tableau
 
