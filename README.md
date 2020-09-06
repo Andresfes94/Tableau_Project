@@ -51,7 +51,7 @@ https://public.tableau.com/profile/andr.s.felipe.torres#!/vizhome/FatalPoliceSho
 
 
 ## Dataset
-Here I need to describe the data bases. 
+ 
 
 Employee Data: 
 This data base is composed of 5 tables. 1) Employees which contains names, last 
