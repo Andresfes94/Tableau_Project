@@ -1,5 +1,15 @@
 ![Tableau+SQL](https://github.com/Andresfes94/Tableau_Project/blob/master/tableau+sql.jpg?raw=true )
+
+
+
+
+
 # Project: Business Intelligence with Tableau
+
+
+
+![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
+
 
 ## Overview
 The goal of this project is  to practice all learned in the Business Intelligence chapter of this program. We selected a data base 
@@ -8,6 +18,8 @@ The goal of this project is  to practice all learned in the Business Intelligenc
 for presentation showing the insights you have derived from the data. 
 
 **Andres Saldana**
+
+
 
 ## Content
 * [Project Description](#project-description) 
@@ -55,4 +67,3 @@ department.
 
 
 * [Fatal Police Shootings in the US](https://www.kaggle.com/kwullum/fatal-police-shootings-in-the-us?select=PercentagePeopleBelowPovertyLevel.csv)
-![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
