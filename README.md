@@ -5,41 +5,52 @@
 ## Overview
 The goal of this project is  to practice all learned in the Business Intelligence chapter of this program. We selected a data base 
  from a ficticious company.
- We explore the data using Tableau, and put together a Story for presentation showing the insights you have derived from the data. 
+ We explore the data using SQL+Tableau, and put together a Story 
+for presentation showing the insights you have derived from the data. 
 
 **Andres Saldana**
 
 ## Content
 * [Project Description](#project-description) 
 * [Dataset](#dataset)
-* [Visualisation with Tableau](#visualisation-with-tableau)
+* [Resources](#Resources)
 
 ## Project Description
+The idea with this project was attempt to get  insides from the data
+of this company concerning to the well-known Salary gap between female 
+and male workers around the globe. 
+
+Therefore we explore the data base using MySQl looking to retrieve right and 
+meaningful data, then we export it to Tableau for visualization. 
+In our approach to check if in this company there is any gap in the salaries
+of the employees first we need to know how many employees of each gender
+are working at the company. 
+
+We also check the number of female employees in executive positions during 
+a period of time in the company, for this analysis we limited our search to 
+the period 1990-2002. Making use of the Salary table we computed the average 
+salary of the employees per department. 
+
 
 The Tableau Public presentation can be found at:
  https://public.tableau.com/profile/andr.s.felipe.torres#!/vizhome/tableau_project_public/SalaryGap?publish=yes
+Another Tableau project concerning the fatal police shootings in USA can be 
+found at: "Fatal Police Shootings in the US"
+https://public.tableau.com/profile/andr.s.felipe.torres#!/vizhome/FatalPoliceShootingsintheUS_15993381836130/Dashboard1?publish=yes
 
 
 ## Dataset
 Here I need to describe the data bases. 
 
 Employee Data: 
+This data base is composed of 5 tables. 1) Employees which contains names, last 
+names, gender and hire date; 2) Managers which contains the number of managers
+per department.3) Departments which contains the departments names. 4) Salary 
+and 5) Employee departments which contains the number of employees per 
+department. 
 
 
-
-
-## Visualisation with Tableau
-
-The Tableau file consists of 6 dashboards. The first dashboard provides a map of the world and the relative 
-population size of each country, and gives an overview of the population growth through time. Although there
- are no major changes in relative population sizes, with China and India being the most populous countries, followed by the
- United States, the considerable growth of population in some African countries, as well as Brasil and Indonesia is evident. 
-
-The second dashboard provides more detailed information on a region level, including the population size in 
-billions for each region, population growth over time, and pie chart showing the contribution of each region to the overall population. 
-
-The third da
-
+## Resources
 
 * [Database Company](https://www.dropbox.com/s/3czfpe0njsq868q/employees_mod.sql?dl=0)
 
