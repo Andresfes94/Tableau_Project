@@ -1,5 +1,5 @@
 ![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
-
+![Tableau+SQL](https://www.google.com/url?sa=i&url=https%3A%2F%2F365datascience.com%2Fconnect-sql-and-tableau%2F&psig=AOvVaw0G06JS3pZsrizc1esPp0uo&ust=1599479381272000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDZ7Zu71OsCFQAAAAAdAAAAABAK)
 # Project: Business Intelligence with Tableau
 
 ## Overview
@@ -29,7 +29,7 @@ are working at the company.
 We also check the number of female employees in executive positions during 
 a period of time in the company, for this analysis we limited our search to 
 the period 1990-2002. Making use of the Salary table we computed the average 
-salary of the employees per department. 
+salary of the employees per department.  
 
 
 The Tableau Public presentation can be found at:
