@@ -1,5 +1,5 @@
 ![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
-![Tableau+SQL](https://github.com/Andresfes94/Tableau_Project/blob/master/tableau+sql.jpg?raw=true =250x250)
+![Tableau+SQL](https://github.com/Andresfes94/Tableau_Project/blob/master/tableau+sql.jpg?raw=true  | width=100)
 # Project: Business Intelligence with Tableau
 
 ## Overview
