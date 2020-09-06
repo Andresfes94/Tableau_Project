@@ -1,5 +1,4 @@
-![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
-![Tableau+SQL](https://github.com/Andresfes94/Tableau_Project/blob/master/tableau+sql.jpg?raw=true  | width=100)
+![Tableau+SQL](https://github.com/Andresfes94/Tableau_Project/blob/master/tableau+sql.jpg?raw=true )
 # Project: Business Intelligence with Tableau
 
 ## Overview
@@ -56,3 +55,4 @@ department.
 
 
 * [Fatal Police Shootings in the US](https://www.kaggle.com/kwullum/fatal-police-shootings-in-the-us?select=PercentagePeopleBelowPovertyLevel.csv)
+![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
